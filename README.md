@@ -82,4 +82,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-Special thanks to [Your Name] for creating and sharing these valuable lectures on OOP and design patterns.
+Special thanks to [Saadi] for creating and sharing these valuable lectures on OOP and design patterns.
